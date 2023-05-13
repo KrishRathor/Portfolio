@@ -1,6 +1,6 @@
 # Portfolio
  
 ## Setup Instructions: 
-
-### npm install
-### npm start
+### run command
+npm install
+npm start
