@@ -20,7 +20,7 @@ const About = () => {
                 </h1>
                 <p className="home-about-body">
                  Hi, my name is <span className="yellow">Krish Rathor</span>
-                 and I'm from <span className="yellow"> Delhi Bangladesh</span>
+                 and I'm from <span className="yellow"> Delhi India</span>
                 <br />
                 <br />
                 I am pursuing graduation with a Bachelor's degree in Inoformation Technology from NSUT(Netaji Subhas University of Technology).
