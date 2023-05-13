@@ -2,5 +2,5 @@
  
 ## Setup Instructions: 
 ### run command
-npm install
-npm start
+1) npm install
+2) npm start
